@@ -1,5 +1,5 @@
 {
-  "name": "@mapiacompany/ngx-intl-tel-input",
+  "name": "ngx-intl-tel-input",
   "version": "2.3.1",
   "peerDependencies": {
     "@angular/common": "^8.0.0",
